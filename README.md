@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[Watch Video Walkthrough]([https://canva.link/evkbli2b27t5ay6))
+[Watch Video Walkthrough]([https://canva.link/evkbli2b27t5ay6)
 
 ## Notes
 
