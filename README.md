@@ -25,16 +25,13 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
-
-[Watch Video Walkthrough]([https://canva.link/evkbli2b27t5ay6)
+Here's a walkthrough of implemented features: [Click Here](https://canva.link/evkbli2b27t5ay6)
 
 ## Notes
-
-* Struggled with correctly using JavaScript array methods like reduce, filter, and sort, especially understanding what each one returns.
-* Found it challenging to properly debug DOM manipulation issues, particularly when elements were not updating or rendering as expected.
-* Had difficulty managing event listeners and ensuring functions were correctly connected to UI buttons without duplication or errors.
-* Initially found template literals, destructuring, and dynamic data rendering confusing when combining JavaScript logic with HTML structure.
+- Things I found challenging/confusing:
+     - Using JavaScript array methods like reduce, filter, and sort, especially when trying to understand what each one returns and how they differ in behavior.
+     - Debugging DOM manipulation issues, particularly when elements were not updating or rendering as expected.
+     - Managing event listeners and ensuring functions were correctly connected to UI buttons without duplication or errors.
 
 ## License
 
