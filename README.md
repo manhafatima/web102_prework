@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Sea Monster*
 
-Submitted by: **Your Name Here**
+Submitted by: **Manha Fatima**
 
 **Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] Enhanced UI using CSS improvements such as padding, color styling, hover effects, and improved spacing for better readability and user experience
 
 ## Video Walkthrough
 
@@ -34,7 +34,10 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Struggled with correctly using JavaScript array methods like reduce, filter, and sort, especially understanding what each one returns.
+Found it challenging to properly debug DOM manipulation issues, particularly when elements were not updating or rendering as expected.
+Had difficulty managing event listeners and ensuring functions were correctly connected to UI buttons without duplication or errors.
+Initially found template literals, destructuring, and dynamic data rendering confusing when combining JavaScript logic with HTML structure.
 
 ## License
 
