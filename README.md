@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />](https://canva.link/evkbli2b27t5ay6)
+[Watch Video Walkthrough]([https://XYZ.com](https://canva.link/evkbli2b27t5ay6))
 
 ## Notes
 
