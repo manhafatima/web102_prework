@@ -2,7 +2,7 @@
 
 Submitted by: **Manha Fatima**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **5** hours spent in total
 
@@ -10,14 +10,18 @@ Time spent: **5** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* The introduction section explains the background of the company and how many games remain unfunded.
+* The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] Enhanced UI using CSS improvements such as padding, color styling, hover effects, and improved spacing for better readability and user experience
+-  Enhanced UI using CSS improvements such as:
+      - padding
+      - color styling
+      - hover effects
+      - improved spacing for better readability and user experience
 
 ## Video Walkthrough
 
@@ -34,10 +38,10 @@ GIF created with ...
 
 ## Notes
 
-Struggled with correctly using JavaScript array methods like reduce, filter, and sort, especially understanding what each one returns.
-Found it challenging to properly debug DOM manipulation issues, particularly when elements were not updating or rendering as expected.
-Had difficulty managing event listeners and ensuring functions were correctly connected to UI buttons without duplication or errors.
-Initially found template literals, destructuring, and dynamic data rendering confusing when combining JavaScript logic with HTML structure.
+* Struggled with correctly using JavaScript array methods like reduce, filter, and sort, especially understanding what each one returns.
+* Found it challenging to properly debug DOM manipulation issues, particularly when elements were not updating or rendering as expected.
+* Had difficulty managing event listeners and ensuring functions were correctly connected to UI buttons without duplication or errors.
+* Initially found template literals, destructuring, and dynamic data rendering confusing when combining JavaScript logic with HTML structure.
 
 ## License
 
